@@ -2,7 +2,7 @@
 
 ## Struktur Folder
 - `DATA VISUALIZATION - MYSKILL`: File PDF berbentuk PPT, Berisi Finpro Data visualization menggunakan looker.
-- `Finpro Data Analyst SQL`: File PDF berbentuk PPT, Berisi Finpro Data visualization menggunakan looker.
+- `Finpro Data Analyst SQL`: File PDF berbentuk PPT, Berisi Finpro Data visualization menggunakan SQL.
 - `/data`: Folder untuk menyimpan data penjualan dan data pelanggan.
 - `/assets`: Folder untuk menyimpan screenshot atau file CSV yang diperlukan.
 - `/scripts`: Folder yang berisi kode atau script yang digunakan untuk melakukan analisis.
